@@ -1,0 +1,27 @@
+no se toca el vite.config.js
+
+
+
+package.json: sin este archivo no se levanta, son datos importantes
+dependencias/dependencias de desarollo para poder llevar este proyecto mas sencillo y ver errores claves
+
+
+-despues de "npm install" no aparace la carpeta "Node_Modules" no arrancara el proyecto
+
+-"npm run dev" levanta el proyecto host local 
+
+-No tocar "index.html" porque levanta el main.jsx
+
+-No tocar "main.jsx"
+
+-Siempre los componentes arrancan en mayusculas
+
+-App.jsx
+
+-"La funcion devuelve logica"
+
+
+-El estado es un "hooks" que nos permite guardar
+y actualizar los valores de una variable
+
+-Hooks nos permite manipular
