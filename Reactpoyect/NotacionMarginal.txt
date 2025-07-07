@@ -25,3 +25,6 @@ dependencias/dependencias de desarollo para poder llevar este proyecto mas senci
 y actualizar los valores de una variable
 
 -Hooks nos permite manipular
+
+-Para instalar las depencias (node_modules), se usa en la consola(terminal) "npm install"
+ y "npm run dev" Para correr REACT 
